@@ -12,6 +12,6 @@
 ## Co-Guide
 - Dr. Ramesh B.T
 
-## Institution / Department (optional)
+## Institution / Department
 - Department of Robotics and Automation  
   Symbiosis Institute of Technology, Pune
